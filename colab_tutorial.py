@@ -472,5 +472,3 @@ print(x + np.reshape(w, (2, 1)))
 # these can be broadcast together to shape (2, 3), producing the
 # following array:
 print(x * 2)
-
-
