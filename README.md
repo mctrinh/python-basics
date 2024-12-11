@@ -1,2 +1,2 @@
-# py-scientific-computing
-Basics for Python Scientific Computing.
+# python-basics
+Python Basics for Scientific Computing.
